@@ -13,7 +13,7 @@
   * Mejorar temas de UI/UX para buena experiencia de cliente.
     * El fondo no es placentero y es distractor.
     * No se puede distinguir las estrellas de ratings.
-      [Screenshot de la página de Fuego Azteca donde no se notan las estrellas de los ratings]()
+      [Screenshot de la página de Fuego Azteca donde no se notan las estrellas de los ratings](fuego_azteca_ss.png)
   * Unificar las plataformas para una experiencia más coherente.
     * Dominios en EEUU y Europa ya no están activos. 
 3. Hacer Ad Campaigns. Utilizar Google Ads o similar para poder servir anuncios en páginas web, Youtube, etc.
